@@ -1,7 +1,7 @@
 package br.com.gabriel.compras.main;
 
-import br.com.gabriel.compras.Cartao;
-import br.com.gabriel.compras.Compra;
+import br.com.gabriel.compras.modelos.Cartao;
+import br.com.gabriel.compras.modelos.Compra;
 
 import java.util.Collections;
 import java.util.Scanner;

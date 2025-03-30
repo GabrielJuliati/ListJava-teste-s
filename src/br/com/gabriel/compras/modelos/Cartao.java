@@ -1,4 +1,4 @@
-package br.com.gabriel.compras;
+package br.com.gabriel.compras.modelos;
 
 import java.util.ArrayList;
 import java.util.List;

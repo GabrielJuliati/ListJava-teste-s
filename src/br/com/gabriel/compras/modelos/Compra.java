@@ -1,4 +1,4 @@
-package br.com.gabriel.compras;
+package br.com.gabriel.compras.modelos;
 
 public class Compra implements Comparable<Compra>{
     private String nomeDoProduto;
